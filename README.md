@@ -51,6 +51,20 @@ Upload de imagem real em vez de URL
 
 ---
 
+## 👨‍💼 Criar Produto (Admin)
+![Admin Criar](./screenshots/admincriar.png)
+
+## 🛠️ Editar Produto
+![Editar Produto](./screenshots/admineditar.png)
+
+## 🧺 Carrinho Lateral
+![Carrinho](./screenshots/carrinho.png)
+
+## 🖥️ Painel Admin
+![Admin Dashboard](./screenshots/adminscreen.png)
+
+## 🛒 Página de Produtos
+![Produtos](./screenshots/screenprodutos.png)
 
 
 ### 🔧 1. Clonar o repositório
@@ -65,7 +79,6 @@ cd backend
 npm install
 
 
-FOTOS
-![Página Inicial](./screenshots/adminscreen.png)
+
 
 
