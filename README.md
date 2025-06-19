@@ -64,3 +64,7 @@ npm install
 cd backend
 npm install
 
+
+FOTOS
+![image](https://github.com/user-attachments/assets/682728db-8923-4ec3-9494-eddaa82d93bf)
+
