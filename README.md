@@ -68,3 +68,4 @@ npm install
 FOTOS
 ![Página Inicial](./screenshots/Captura de ecrã 2025-06-19 183307.png)
 
+
