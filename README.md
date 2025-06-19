@@ -66,5 +66,6 @@ npm install
 
 
 FOTOS
-![image](https://github.com/user-attachments/assets/682728db-8923-4ec3-9494-eddaa82d93bf)
+![Página Inicial](./screenshots/Captura de ecrã 2025-06-19 183307.png)
+
 
