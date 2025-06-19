@@ -1,12 +1,66 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛒 MERN E-Commerce
 
-Currently, two official plugins are available:
+Uma aplicação completa de e-commerce desenvolvida com a stack **MERN**:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **MongoDB** (base de dados)
+- **Express.js** (API backend)
+- **React.js** (frontend)
+- **Node.js** (servidor)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Funcionalidades
+
+- Autenticação de utilizadores (registo, login, logout)
+- Painel de administrador com criação, edição e remoção de produtos
+- Carrinho de compras com:
+  - Animação lateral
+  - Quantidade ajustável por produto
+  - Total dinâmico e botão “Limpar Carrinho”
+- Produtos destacados na página inicial
+- Proteção de rotas por token JWT
+- Layout responsivo com TailwindCSS
+
+---
+
+MELHORIAS FURUTAS:
+
+Pagamento com Stripe/PayPal
+
+Guardar carrinho por utilizador (persistente)
+
+Dashboard com estatísticas de vendas
+
+Upload de imagem real em vez de URL
+
+## 🧑‍💻 Tecnologias Usadas
+
+### Frontend
+- React
+- React Router
+- TailwindCSS
+- Context API
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB com Mongoose
+- JSON Web Token (JWT)
+
+---
+
+
+
+### 🔧 1. Clonar o repositório
+
+```bash
+git clone https://github.com/teu-username/mern-ecommerce.git
+cd mern-ecommerce
+
+# ##Instalar frontend e backend
+npm install
+cd backend
+npm install
+
